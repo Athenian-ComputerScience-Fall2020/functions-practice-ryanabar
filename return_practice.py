@@ -20,6 +20,8 @@ print(output_num)
 
 '''
 Add prediction(s) here:
-
+45
+Since output_num = math2(), the only function that will print will be math2(). That doesn't mean that the other two aren't correct;
+they just aren't being printed
 
 '''

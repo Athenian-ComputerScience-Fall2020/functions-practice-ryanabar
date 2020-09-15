@@ -5,6 +5,9 @@
 def say_hi():
    print("Why hello there!")
 
+def say_joke():
+    print("Barista: How do you take your tea? Me: Very, very seriously.")
+
 def offer_drink():
    print("Would you care for a spot of tea?")
 
@@ -14,7 +17,8 @@ def offer_food():
 def say_bye():
    print("Cheerio then.")
 
-
-offer_drink()
 say_hi()
+say_joke()
+offer_drink()
 offer_food()
+say_bye()

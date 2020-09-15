@@ -19,7 +19,7 @@ print("1 = Addition")
 print("2 = Subtraction")
 print("3 = Multiplication")
 print("4 = Division")
-print(" ")
+print("\n")
 
 option = int(input("Choose 1, 2, 3, or 4: "))
 num1 = int(input("Enter a number: "))
